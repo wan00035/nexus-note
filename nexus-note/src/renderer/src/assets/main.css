@@ -1,0 +1,17 @@
+/* Reset default browser margins */
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+/* Make sure all elements include padding and border in their element's total width and height */
+* {
+  box-sizing: border-box;
+}
+
+/* Remove default focus outlines for a cleaner look */
+input:focus, textarea:focus, [contenteditable]:focus {
+  outline: none;
+}
