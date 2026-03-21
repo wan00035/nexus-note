@@ -6,7 +6,7 @@
 
 ## 🚀 Key Features
 
-* **WYSIWYG Editing**: A modern "What You See Is What You Get" rich text experience powered by the **Tiptap** editor engine—no Markdown syntax required.
+* **WYSIWYG Editing**: A modern "What You See Is What You Get" rich text experience powered by the **Tiptap** editor engine.
 * **AI Agent Integration**: Built-in side panel connected to **Gemini**. The AI reads your current note context to summarize, rewrite, or answer questions.
 * **Local-First Architecture**: All notes are stored as HTML files in your local `Documents/NexusNoteVault` folder. Your thoughts never leave your machine unless you ask the AI.
 * **Secure API Management**: Configure your own Gemini API Key within the app UI. Keys are stored locally in a `settings.json` and are never hardcoded in the source code.
